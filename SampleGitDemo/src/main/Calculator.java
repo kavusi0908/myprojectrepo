@@ -36,5 +36,8 @@ public class Calculator {
 	public static void four(int num1){
 	      System.out.println(num1*num1*num1*num1);
 	  }
+	public static void master(int num1){
+	      System.out.println(num1);
+	  }
 
 }
